@@ -27,6 +27,10 @@ public class TestNonRecursiveTraversal {
 		nonRecursiveTraversal.inorderTraverse(root);
 		System.out.println();
 		System.out.println("*****递归中序遍历结束*****" + "\n");
+		System.out.println("*****递归后序遍历开始*****");
+		nonRecursiveTraversal.afterorderTraverse(root);
+		System.out.println();
+		System.out.println("*****递归后序遍历结束*****" + "\n");
 
 	}
 
