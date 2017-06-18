@@ -1,4 +1,4 @@
-package cn.sfturing.tree;
+package cn.sfturing.traversal;
 
 import java.util.ArrayList;
 import java.util.List;

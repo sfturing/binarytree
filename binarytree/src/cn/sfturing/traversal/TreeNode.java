@@ -1,4 +1,4 @@
-package cn.sfturing.tree;
+package cn.sfturing.traversal;
 
 public class TreeNode {
 	private TreeNode leftNode;
