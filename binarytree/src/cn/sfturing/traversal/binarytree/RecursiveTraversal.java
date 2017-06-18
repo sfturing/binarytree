@@ -1,4 +1,4 @@
-package cn.sfturing.traversal;
+package cn.sfturing.traversal.binarytree;
 
 public class RecursiveTraversal {
 	/**
