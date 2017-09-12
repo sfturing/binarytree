@@ -16,7 +16,7 @@ public class RecursiveTraversal {
 	}
 
 	/**
-	 * 递归中序遍历 root --left -- right
+	 * 递归中序遍历 left--root  -- right
 	 * 
 	 * @param treeNode
 	 */
@@ -30,7 +30,7 @@ public class RecursiveTraversal {
 	}
 
 	/**
-	 * 递归中序遍历 root --left -- right
+	 * 递归中序遍历 left --right -- root
 	 * 
 	 * @param treeNode
 	 */
